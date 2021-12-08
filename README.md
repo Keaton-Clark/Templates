@@ -14,7 +14,7 @@ Install and uninstall with make
 
 tmplt will look in ~/.Templates/ for available templates. Examples are present in the
 repository.
-    
+
 ## Usage
 
 Any file or folder located in ~/.Templates/ can be used as a template.
@@ -29,4 +29,4 @@ HW4
   HW4.tex
   makefile
   images
-``` 
+ ``` 
